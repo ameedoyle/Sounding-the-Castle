@@ -1,8 +1,7 @@
 # Sounding the Castle
 
 [Home](index.md) | [About](about.md) | [Inventory](inventory.md) | [Objects](objects.md) | [Bibliography](bibliography.md)---
-layout: default
-title: Sounding the Castle
+
 ---
 ---
 title: Inventory
