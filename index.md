@@ -12,7 +12,7 @@ objects associated with the Castle collection.
 
 ## Collections
 
-- Antiphoners
+- Antiphoner
 - Chant Fragments
 - Instruments
 - Piano Rolls
