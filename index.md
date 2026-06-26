@@ -13,7 +13,7 @@ Sounding the Castle is a digital humanities project documenting musical objects 
 ## Collections
 
 - Antiphoners
-- Chant fragments
+- Chant fragments/Lampshades
 - Instruments
 - Piano rolls
 - Performances
