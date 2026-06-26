@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">California Early Music Sources logo</title>
+  <desc id="desc">A circular seal with a manuscript page, musical staff lines, and a California source label.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff7df"/>
+      <stop offset="1" stop-color="#e3c98f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d8a947"/>
+      <stop offset="1" stop-color="#8f6122"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="none"/>
+
+  <g transform="translate(34 28)">
+    <circle cx="102" cy="102" r="100" fill="#14333a"/>
+    <circle cx="102" cy="102" r="86" fill="#f8f1de" stroke="#b88b36" stroke-width="8"/>
+    <circle cx="102" cy="102" r="70" fill="#213f48" opacity=".1"/>
+
+    <path d="M73 51 h67 c9 0 16 7 16 16 v83 c0 9-7 16-16 16 H73 c-9 0-16-7-16-16 V67 c0-9 7-16 16-16Z" fill="url(#paper)" stroke="#7a5424" stroke-width="5"/>
+    <path d="M88 58 v101" stroke="#b58d4f" stroke-width="3"/>
+    <path d="M100 77 h38 M100 94 h38 M100 111 h38 M100 128 h38" stroke="#5d4b34" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 86 c7-10 17-10 24 0 c-7 10-17 10-24 0Z" fill="#8d2734"/>
+    <circle cx="131" cy="119" r="7" fill="#14333a"/>
+    <path d="M138 119 v-28" stroke="#14333a" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M74 159 c34 18 69 18 103 0" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M59 45 c10-10 20-16 32-21 M146 23 c13 5 25 12 35 23" fill="none" stroke="#d8a947" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(270 68)">
+    <text x="0" y="0" fill="#14333a" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">California</text>
+    <text x="0" y="56" fill="#14333a" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Early Music Sources</text>
+    <path d="M2 86 H520" stroke="#b88b36" stroke-width="5" stroke-linecap="round"/>
+    <text x="0" y="123" fill="#4d5d61" font-family="Arial, Helvetica, sans-serif" font-size="22">manuscripts, fragments, instruments, prints, and archives</text>
+  </g>
+</svg>
