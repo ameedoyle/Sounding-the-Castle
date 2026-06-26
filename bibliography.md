@@ -12,4 +12,4 @@ nav_order: 5
 - Harold Lancour, *American Art Auction Catalogues, 1785–1942*, no. 5472.
 - 
 ## Scholarly Research
-Doyle, Alicia. "Let There Be Light." In _Sleuthing the Muse: Essays in Honor of William F. Prizer, edited by Kristine Forney and Jeremy Smith. xx–xx. Hillsdale, NY: Pendragon Press, 2012.
+Doyle, Alicia. “Let There Be Light.” In Sleuthing the Muse: Essays in Honor of William F. Prizer, edited by Kristine K. Forney and Jeremy L. Smith, xx–xx. Hillsdale, NY: Pendragon Press, 2012.
