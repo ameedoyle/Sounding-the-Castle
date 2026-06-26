@@ -9,8 +9,7 @@ nav_order: 3
 ## Collections
 
 - [Antiphoners]({{ "/objects/" | relative_url }})
-- Chant fragments
-- Lampshades
+- Chant fragments/Lampshades
 - Instruments
 - Piano rolls
 - Performers and performances
