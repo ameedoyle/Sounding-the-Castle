@@ -1,4 +1,6 @@
+[Home](index.md) | [About](about.md) | [Inventory](inventory.md) | [Objects](objects.md) | [Bibliography](bibliography.md)
 
+---
 # Bibliography
 
 ## Auction Catalogues
