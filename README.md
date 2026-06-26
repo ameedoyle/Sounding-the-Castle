@@ -28,3 +28,11 @@ bundle exec jekyll serve
 ```
 
 The local site runs at `http://127.0.0.1:4000/Sounding-the-Castle/`.
+
+## GitHub Pages
+
+This repository uses a GitHub Actions workflow to deploy the Jekyll site so
+GitHub can install the Just the Docs theme from the `Gemfile`.
+
+In the repository settings, set **Pages > Build and deployment > Source** to
+**GitHub Actions**.
