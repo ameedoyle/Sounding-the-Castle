@@ -1,15 +1,19 @@
-[Home](index.md) | [About](about.md) | [Inventory](inventory.md) | [Objects](objects.md) | [Bibliography](bibliography.md)
-
 ---
----
-
+layout: default
+title: Holy Week Antiphoner
+parent: Objects
+nav_order: 1
+permalink: /objects/holy-week-antiphoner/
 ---
 
 # Holy Week Antiphoner
 
-**Object ID**
-
-HC-ANT-001
+| Field | Description |
+|:--|:--|
+| Object ID | HC-ANT-001 |
+| Date | Late sixteenth or early seventeenth century |
+| Place | Spain |
+| Type | Choirbook |
 
 ## Description
 

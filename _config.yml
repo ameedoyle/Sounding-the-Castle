@@ -1,18 +1,27 @@
 title: Sounding the Castle
 description: A digital inventory of manuscripts, chant fragments, instruments, piano rolls, and performances.
 
+url: "https://ameedoyle.github.io"
+baseurl: "/Sounding-the-Castle"
+repository: "ameedoyle/Sounding-the-Castle"
+
 theme: just-the-docs
-
-url: https://github.com/ameedoyle/Sounding-the-Castle
-
-baseurl: "/sounding-the-castle"
+permalink: pretty
 
 color_scheme: light
-
 search_enabled: true
-
 nav_sort: case_insensitive
 
 aux_links:
-  GitHub Repository:
-    - https://github.com/YOURUSERNAME/sounding-the-castle
+  "GitHub Repository":
+    - "https://github.com/ameedoyle/Sounding-the-Castle"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
