@@ -4,7 +4,12 @@
 layout: default
 title: Sounding the Castle
 ---
+---
+title: Inventory
+nav_order: 3
+---
 
+# Inventory
 # Sounding the Castle
 
 Welcome!
