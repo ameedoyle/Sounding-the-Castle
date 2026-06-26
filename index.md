@@ -8,7 +8,7 @@ description: A digital inventory of manuscripts, chant fragments, instruments, p
 
 # Sounding the Castle
 
-Sounding the Castle is a digital humanities project documenting musical objects associated with the Hearsst Castle collection in San Simeon, California.
+Sounding the Castle is a digital humanities project documenting musical objects associated with the Hearst Castle collection in San Simeon, California.
 
 ## Collections
 
