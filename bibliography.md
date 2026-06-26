@@ -10,3 +10,5 @@ nav_order: 5
 
 - Luis Ruiz sale, American Art Association, New York, 1929.
 - Harold Lancour, *American Art Auction Catalogues, 1785–1942*, no. 5472.
+## Scholarly Research
+Doyle, Alicia. "Let There Be Light." In Sleuthing the Muse: Essays in Honor of William F. Prizer, edited by April F. Harper, Lynn E. Maxson, and Kathleen Nelson, xx–xx. Hillsdale, NY: Pendragon Press, 2012.
