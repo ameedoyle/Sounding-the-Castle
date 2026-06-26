@@ -2,8 +2,7 @@
 
 ---
 ---
-layout: default
-title: Holy Week Antiphoner
+
 ---
 
 # Holy Week Antiphoner
