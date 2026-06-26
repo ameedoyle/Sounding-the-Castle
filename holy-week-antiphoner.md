@@ -9,7 +9,7 @@
 
 **Object ID**
 
-STC-ANT-001
+HC-ANT-001
 
 ## Description
 
